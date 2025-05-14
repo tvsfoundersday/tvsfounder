@@ -29,7 +29,7 @@ define( 'DB_USER', 'wpuser1' );
 define( 'DB_PASSWORD', 'Wpuser@123' );
 
 /** Database hostname */
-define( 'DB_HOST', '65.1.112.57' );
+define( 'DB_HOST', '13.232.249.29' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
